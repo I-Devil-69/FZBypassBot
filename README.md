@@ -173,6 +173,15 @@
 ---
 
 ## ***Deploy Guide***
+
+### . Deploy with One Click
+
+You can deploy this app directly to Heroku using the button below:
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/I-Devil-69/FZBypassBot)
+
+---
+
 1. `Heroku` or `Koyeb` or `Render` or `Scalingo` or _**More**_ _(Recommended)_
     - Use [pyTele-Loader](https://github.com/SilentDemonSD/pyTele-Loader) and Follow further Steps.
     - **Variables Values:**
